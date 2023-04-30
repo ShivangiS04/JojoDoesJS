@@ -2,7 +2,7 @@
 **Changing attribute of an image**
 
 ```c
-<!DOCTYPE html>
+
 <html>
 <body>
 
@@ -25,7 +25,6 @@
 **Changing style of an HTML element**
 
 ```c
-<!DOCTYPE html>
 <html>
 <body>
 
@@ -42,7 +41,6 @@
 **Hiding HTML elements** 
 
 ```c
-<!DOCTYPE html>
 <html>
 <body>
 
